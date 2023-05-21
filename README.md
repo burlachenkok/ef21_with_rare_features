@@ -1,7 +1,4 @@
-# How to Launch Experiments for EF21: Error Feedback Shines when Features are Rare.
-
-The experiments for Logistic Regression and synthesized linear regression for the paper:
-` Error Feedback Shines when Features are Rare` (Link to arXiv: ...)
+This is a repository with  experiments for the paper `Error Feedback Shines when Features are Rare` (Link to arXiv: ...)
 
 Authors:
 
@@ -9,7 +6,8 @@ Authors:
 * [Elnur Gasanov](https://elnurgasanov.com/)
 * [Konstantin Burlachenko](https://burlachenkok.github.io/)
 
-...
+It includes source code and guide for reproducing experiments for this paper.
+
 
 ## Prerequisites
 
