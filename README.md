@@ -1,4 +1,6 @@
-This is a repository with  experiments for the paper `Error Feedback Shines when Features are Rare` (Link to arXiv: ...)
+This is a repository with  experiments for the paper 
+
+**Error Feedback Shines when Features are Rare** (Link to arXiv: ...)
 
 Authors:
 
@@ -6,8 +8,7 @@ Authors:
 * [Elnur Gasanov](https://elnurgasanov.com/)
 * [Konstantin Burlachenko](https://burlachenkok.github.io/)
 
-It includes source code and guide for reproducing experiments for this paper.
-
+This repository includes source code and guidelines for reproducing experiments for this paper.
 
 ## Prerequisites
 
