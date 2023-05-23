@@ -4,10 +4,9 @@ This repository includes source code and guidelines for reproducing experiments 
 
 ## Prerequisites
 
-The experiments have been constructed via modifying FL_PyTorch [https://arxiv.org/abs/2202.03099](https://arxiv.org/abs/2202.03099), [GitHub link](https://github.com/burlachenkok/flpytorch).
+The experiments have been constructed via modifying FL_PyTorch [https://arxiv.org/abs/2202.03099](https://arxiv.org/abs/2202.03099)
 
 This simulator is constructed based on the PyTorch computation framework. The first step is preparing the environment. 
-Preparation of environment described in [README.md](https://github.com/burlachenkok/flpytorch/blob/main/README.md) files of this publicly available repository.
 
 If you have installed [conda](https://docs.conda.io/en/latest/) environment and package manager then you should perform only the following steps for preparing the environment.
 
@@ -69,6 +68,8 @@ You should replace `--wandb-project-name "vvvvvvvvvv"` with a project name that 
 
 ## Visualization of the Results
 
-The result in binary files can be loaded into the simulator `fl_pytorch\fl_pytorch\gui\start.py`. After this plots can be visualized in *Analysis* tab. Recommendations on how to achieve this are available in [TUTORIAL.md](https://github.com/burlachenkok/flpytorch/blob/main/TUTORIAL.md) provided with [flpytorch](https://github.com/burlachenkok/flpytorch) simulator.
+The result in binary files can be loaded into the simulator `fl_pytorch\fl_pytorch\gui\start.py`. After this plots can be visualized in *Analysis* tab. 
+
+Recommendations on how to achieve this are available in TUTORIAL for this simulator.
 
 To automatically generate names please add `{comment}` into Label generation. For the purpose of publication plots in the paper, we have used line size 4, and font sizes 37.
